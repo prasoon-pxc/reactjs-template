@@ -4,5 +4,5 @@ metadata:
   name: "My-test-template"
 spec:
   type: service
-  owner: user:guest
+  owner: user:prasoon-pxc
   lifecycle: experimental
