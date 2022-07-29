@@ -6,3 +6,4 @@ spec:
   type: service
   owner: user:prasoon-pxc
   lifecycle: experimental
+  subcomponentOf: component:Backstage-Conf-Repo
